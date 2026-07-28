@@ -1,0 +1,2 @@
+# Blokie
+auto screenshots
